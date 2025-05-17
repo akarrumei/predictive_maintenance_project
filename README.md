@@ -29,8 +29,7 @@ predictive_maintenance_project/
 ├── .gitignore              # Игнорируемые файлы Git
 ├── data/
 │   └── predictive_maintenance.csv   # CSV-файл, если используется локально
-└── video/
-    └── demo.mp4            # (опционально) Видео-демонстрация
+└── demo.mkv                # (опционально) Видео-демонстрация
 ```
 
 ---
